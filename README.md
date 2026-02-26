@@ -21,5 +21,5 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/JarFuscator.git
+git clone https://github.com/inputtdev/JarFuscator.git
 cd JarFuscator
