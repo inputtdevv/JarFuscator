@@ -4,7 +4,7 @@
 
 ---
 
-## Features
+## Features 📚
 
 - **Full JAR obfuscation**: Encrypt strings, obfuscate method/field names, rename classes.
 - **Phantom computation**: Protects unused or phantom classes.
@@ -23,3 +23,21 @@
 ```bash
 git clone https://github.com/inputtdev/JarFuscator.git
 cd JarFuscator
+```
+
+2. Install python dependencies.
+
+```bash
+py -m pip install colorama
+py -m pip install pystyle
+```
+
+3. Run The Python file
+
+```bash
+python JarFuscation.py {jar} 
+```
+
+To list all arguments you can use, type --help when running the script.
+
+Optionally you can install the precompiled .EXE file
